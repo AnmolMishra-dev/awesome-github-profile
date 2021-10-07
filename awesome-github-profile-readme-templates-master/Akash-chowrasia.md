@@ -74,7 +74,7 @@
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tbsdev-Anmol&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tbsdev-Anmol&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
 <hr>
 
@@ -120,7 +120,7 @@ Do you like my profile and want to build your own? It's very simple. GitHub rece
 And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page. 
 
 -----
-Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
+Credits: [Tbsdev-Anmol](https://github.com/Akash-chowrasia)
 
 Last Edited on: 22/02/2021
 
